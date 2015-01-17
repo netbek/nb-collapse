@@ -1,0 +1,21 @@
+/**
+ * AngularJS directive for a collapsible element
+ *
+ * @author Hein Bekker <hein@netbek.co.za>
+ * @copyright (c) 2015 Hein Bekker
+ * @license http://www.gnu.org/licenses/agpl-3.0.txt AGPLv3
+ */
+
+.collapse {
+	display: none;
+	position: relative;
+	overflow: hidden;
+}
+
+.collapse.in {
+	display: block;
+}
+
+.collapse.transitioning {
+	display: block;
+}
