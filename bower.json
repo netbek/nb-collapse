@@ -18,5 +18,8 @@
 		"test",
 		"tests",
 		"vendor"
-	]
+	],
+	"dependencies": {
+		"gsap": "1.15.0"
+	}
 }
