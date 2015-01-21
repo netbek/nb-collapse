@@ -20,6 +20,8 @@
 		"vendor"
 	],
 	"dependencies": {
+		"angular": "~1.2.28",
+		"angular-animate": "~1.2.28",
 		"gsap": "1.15.0"
 	}
 }
